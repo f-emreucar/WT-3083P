@@ -1,0 +1,64 @@
+.index-border{
+    border: 1px solid  blanchedalmond;
+}
+
+.footer-border{
+    border-bottom: none;
+    border-left: none; 
+    border-right: none;
+}
+
+.h2-2ndarea{
+    color:brown
+}
+
+.h5{
+    color:brown
+}
+
+.mb-0{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.hd-h1-text{
+    color:brown
+}
+
+.hd-p-text{
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+.fw-bolder{
+    color:brown
+}
+
+.text-muted{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.buttoncolor{
+    color:brown;
+    font-style: italic;
+}
+
+.about-border{
+    border: 1px solid  blanchedalmond;
+}
+#bgcolor-body{
+    background-color: #13508a;
+}
+
+.bg-contact{
+    background-color: #506477;
+}
+
+
+.m-b-t{
+    margin:50px;
+    border: 5px;
+    padding: 48px;
+}
